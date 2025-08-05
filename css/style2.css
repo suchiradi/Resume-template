@@ -1,0 +1,54 @@
+body{
+    background-image: url("../moroccan-flower-dark.png");
+    font-family: "Segoe UI", "Arial", sans-serif;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+header{
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.4rem;
+}
+.about{
+    background-image: url("../moroccan-flower.png");
+    background-size: cover;
+    border: 5px black solid;
+    padding: 10px;
+    margin: 30px;
+}
+.features{
+    background-image: url("../moroccan-flower.png");
+    background-size: cover;
+    border: 5px black solid;
+    padding: 10px;
+    margin: 30px;
+}
+.conclusion{
+    background-image: url("../moroccan-flower.png");
+    background-size: cover;
+    border: 5px black solid;
+    padding: 10px;
+    margin: 30px;
+}
+.footer-part{
+    background: black;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 30px;
+}
+hr{
+    height: 5px;
+    background-color: black;
+    margin: 30px;
+}
+a{
+    color: blue;
+}
+a:focus-visible,a:hover{
+    color: purple;
+}
+a:active{
+    color: black;
+}
